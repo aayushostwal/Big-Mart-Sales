@@ -1,0 +1,14 @@
+Use EDA - univarite and Bi-variate analysis to find trend, relation between features and target value.
+Thses trends are also used to impute missing values in the data set.
+
+Use Feature Engineering :
+  Label Encoding
+  Categorical encoding
+and Finally normalized the data.
+
+Analysed models like 
+  Linear Regression
+  Random Forests
+  XG_Boost
+  
+With parameter boosting obtained a RMSE value of 1161.8500283281  
